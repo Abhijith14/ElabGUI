@@ -1,0 +1,15 @@
+[0818/171526.242:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0818/171526.461:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0818/171526.500:ERROR:exception_snapshot_win.cc(98)] thread ID 8848 not found in process
+[0818/171526.500:ERROR:exception_snapshot_win.cc(98)] thread ID 18480 not found in process
+[1019/165722.938:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1019/233621.259:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1019/235441.892:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/012417.952:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ABHIJI~1\AppData\Local\Temp\scoped_dir15452_1942196383\Crashpad\attachments\6b52fad2-ade4-4589-957b-56e82593c477: The system cannot find the path specified. (0x3)
+[1020/122746.486:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/124753.058:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/131656.281:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/134344.031:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/152357.382:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ABHIJI~1\AppData\Local\Temp\scoped_dir21136_1938764093\Crashpad\attachments\7d6cbbf4-76ea-4e90-8934-843f57f989ad: The system cannot find the path specified. (0x3)
+[1020/155124.259:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ABHIJI~1\AppData\Local\Temp\scoped_dir13076_2000527877\Crashpad\attachments\1da72f7d-9afd-49ad-a64b-bcb8ce337644: The system cannot find the path specified. (0x3)
+[1116/011715.680:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
